@@ -1,0 +1,67 @@
+22/11/16
+
+http://www.linguisticsociety.org/content/how-many-languages-are-there-world
+	- How many languages?
+		- 1911 Encyclopedia Britannica said around 1000
+		- 2009 Ethnologue says 6,909 distinct languages 
+		made by Summer Institute of Linguistics, now known as SIL International which tries to translate the bible in every language	
+	- The density of languages spoken
+		- Europe: 230
+		- Asia: 2179
+		- Papua-New Guinea: 832 by 3.9 million inhabitants
+	- Dying languages
+	- Max Weinreich used to say that "A language is a dialect with an army and a navy."
+	- where is the difference between a european "language" and an african "dialect"?
+	- the dialects of chinese differ as much as romanistic languages
+	- "Within a period of only a few years after the breakup of Yugoslavia as a political entity, 
+		at least three new languages (Serbian, Croatian and Bosnian) had emerged, 
+		although the actual linguistic facts had not changed a bit."
+	- mutual intelligibility?
+		- "if the speakers of A can understand the speakers of B without difficulty, A and B must be the same language"
+		- In some instances, speakers of A can understand B, but not vice versa, or at least speakers of B will insist that they cannot. Bulgarians, for instance, consider Macedonian a dialect of Bulgarian, but Macedonians insist that it is a distinct language. When Macedonia’s president Gligorov visited Bulgaria’s president Zhelev in 1995, he brought an interpreter, although Zhelev claimed he could understand everything Gligorov said.
+		- dialect continua
+	- Example Northern Italy: 
+let us suppose that there are, say, ten such parameters that distinguish one grammar from another. This is really quite a conservative estimate, in light of the variation that has in fact been found there. But if each of these can vary independently of the others, collectively they define a set of two to the tenth, or 1,024 distinct grammars, and indeed scholars have estimated that somewhere between 300 and 500 of these distinct possibilities are actually instantiated in the region!
+	- Answer of a biologist: 1 language
+In all these ways, human language is so different from any other known system in the natural world that the narrowly constrained ways in which one grammar can differ from another fade into insignificance. For a native of Milan, the differences between the speech of that city and that of Turin may loom large, but for a visitor from Kuala Lumpur both are “Italian.” Similarly, the differences we find across the world in grammars seem very important, but for an outside observer—say, a biologist studying communication among living beings in general—all are relatively minor variations on the single theme of Human language.
+
+
+https://www.youtube.com/watch?v=bFDGPgXtK-U
+The Wagge Dance of the Honeybee
+	- aristoteles documented the bees
+	- intelligent honey been:
+		- been discovers food source
+		- after that others arrive at the food source (but didn't travel in groups)
+		- each bee finds the source indiviually
+		- how can they know precisely where the food is located?
+		- Communication: Austrian biologist Karl von Frisch made experiments
+			- Orientacion of the 8-dance at the colony shows the direction of the food location
+			- honey bee has an internal clock with seasons and attitudes of the sun
+			- orientacion point of the dance:gravity "up"
+			- angle difference -> angle difference to fly to from the sun
+			- duration of the dance measured in energy neccessary to reach the food (wind, distance)
+
+
+http://www.bbc.com/earth/story/20150216-can-any-animals-talk-like-humans
+
+	- vocal learners: there are animals that can learn to produce new sounds
+		- controled by a part of the forebrain
+		"This means humans use the same genes to speak as songbirds use to sing"
+	- simply parroting them without understanding
+	- exception: african parrot birds
+
+http://www.linguisticsociety.org/sites/default/files/LanguageBegin.pdf
+How did human language begin?
+
+	-  Unlike any other animal communication system, it contains an expression for negation — what is not the case
+	-  connection between ability to speak and gens?
+
+https://www.ethnologue.com/about/language-status
+Language Status
+(as you already learned)
+	
+
+
+	
+		
+	
