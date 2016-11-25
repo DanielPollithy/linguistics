@@ -1,0 +1,25 @@
+22/11/16
+
+2 - 1 Distinguishing consonants
+===============================
+
+Subdisciplines of linguistics which study sounds
+- Phonetics: studies physical and physiological aspects of sounds
+- Phonology: Studies sounds as part of language, omitting linguistically irrelevant details
+
+
+
+
+Phonetics
+---------
+- Form finite set (20 - 200 vowels and consonantes)
+- Building blocks for constructing words
+
+English has more sounds than letters
+If you want to write down every sound of every language - International Phonetic Alphabet (IPA)
+
+All languages distinguish between consonants and vowels:
+	- airstream is not impeded for vowels
+	- every syllable has a vowel; consonants are optional
+
+

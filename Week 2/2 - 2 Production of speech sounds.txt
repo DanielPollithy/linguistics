@@ -1,0 +1,24 @@
+22/11/16
+
+2 - 2 Production of speech sounds
+===============================
+
+(Phonetics)
+
+Three dimensions of sound production
+
+1. Place of Articulation
+	- Labial: Lips (b, p, m)
+	- Alveolar : Gaumen (t, l, d)
+	- Velar : Rachen (k, g)
+	- other languages have more!
+
+2. Manner of Articulation
+	- stop/plosive: Lippen sind einmal ganz geschlossen und werden dann wieder geöffnet (b, p)
+	- Fricative: Lippen sind nicht ganz geschlossen -> Rauschen (f, s)
+	- nasal: Mund geschlosen, Luft verlässt Nase (m, n)
+	- sonorant: You do something with your tongue and the air can leave freely (l, r)
+	- others have more!
+
+3. Voicing
+	- Vocal cords: wenn die Stimmbänder vibrieren (z.B. bei /d/)
