@@ -1,0 +1,20 @@
+3 - 1 Words and sentences
+=========================
+
+Words and sentences are the parts where we start seeing meaning.
+
+Languages differ in
+- How sentences are made up
+	- Turkish: Long word with a lot of meaning
+	- Standard chinese: Lots of short words
+- Organization of words
+	- Dutch: the person who does something is the first word in the sentence
+	-  Apalai: The person who does something is at the end of the sentence
+
+Morphology: the study of the internal structure of words. How are words composed of smaller meaningful words
+
+Syntax: How are sentences built from words
+
+Even concepts like sentences and words are different. What is a word?
+
+

@@ -1,4 +1,4 @@
-22/11/16
+﻿22/11/16
 
 2 - 4 Sounds in system
 ===============================
@@ -27,78 +27,6 @@ Evidence type 4: Speech errors
 - Spaghetti -> Skabetti
 
 Features = caraceteristicas (esp.)
-
-
-2 - 5 Sounds and language change
-================================
-
-- nacht -> night
-- how does a language change?
-	- internally: by every generation
-	- by language contact 
-		- christmas hawaiian -> taking the consonants
-
-2 - 6
-================================
-
-Inquisition of speech
- - structural mistakes and so on...
-
-
-Required reading
-================
-
-http://wals.info/chapter/1
-Chapter Consonant Inventories
-- consonant inventory = number of consonants used in a language
-- to find different speech sounds look at short words where you only change (i) the beginning (ii) the end (iii) the middle syllable
-	 pin, tin, kin, fin, thin, sin, shin
-- definition: what is a consonant differs
-
-
-http://wals.info/chapter/2
-Vowel Quality Inventory
-
-
-Vowels build the center of syllables
-vowel = vocal (esp)
-eau (fr.) water just one vowel /o/
-
-Find different vowels: seat, sit, sate, set, sat, sot, soot, suit
-
-Where the categorization is difficult: 
-- vowel length
-	t’a /t'a/ means ‘king salmon’, whereas t’aa /t'aː/ means ‘board, plank’
-- vowel nasalization
-	bon café ‘good coffee’ and bon ami ‘good friend’, /bɔ̃ kafe/ versus /bɔn ami/.
-- diphthongs
-	lied /laid/ and loud /laud/, involve movement of vowels from a starting position to a different finishing position
-
-In all of them the discussion is whether to call them different vowels or vowels with consonants...
-=> the number of vowels would vary a lot
-
-Other method by Phoneticians:
-The “timbre” of a vowel sound. 
-These are its 
-- height (roughly, how open the jaw needs to be to make the vowel), 
-- its position in a front-to-back dimension (roughly, whether the tongue needs to be pushed forward, 
-	remain more or less in the position in which it rests during normal breathing, 
-	or be pulled toward the back of the mouth for that vowel), and 
-- the lip position (whether the lips are pushed forward and narrowed or not).
-
-
-"Spanish is thus counted as having five vowels, which generally are represented quite straightforwardly by the letters i, e, a, o, u in Spanish orthography. The diphthongs which occur in words such as puerta ‘door’ or siempre ‘always’ can be resolved as combinations of two of these basic vowels occurring within a single syllable. For the five recognized vowel qualities in Spanish a simple phonetic categorization can be given in terms of the basic properties as follows: the two vowels represented by /i, u/ are high vowels, /e, o/ are mid vowels and /a/ is a low vowel. The vowels /i, e/ are front, /a/ is central, and /o, u/ are back; /o/ and /u/ are also rounded while the other three Spanish vowels are unrounded."
-
-with 14 vowels German has the most.
-
-
-
-https://upload.wikimedia.org/wikipedia/en/8/8f/IPA_chart_%28C%292005.pdf
-
-
-
-
-
 
 
 

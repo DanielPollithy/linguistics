@@ -1,0 +1,18 @@
+3 - 5 Syntax and word order
+===========================
+Part two
+
+Lots of parts in a sentence -> many possibilites
+	-> a lot of them are actually employed by real languages
+
+But there is a general tendency to word orders:
+	-> Typologists study this (most famous Joseph Greenberg 1915 - 2001)
+	If a language has V-O it should have prepositions and N-A (French)
+	If it has O-V is should have postpositions and A-N (Japanese)
+	Of course there are exceptions: English has V-O but A-N and prepositions.
+
+Factor: Question words
+	- Question word moves object to beginning of the sentence in English
+	- Japanese does not change word order (S-O-V) on a question
+		John what eats?
+

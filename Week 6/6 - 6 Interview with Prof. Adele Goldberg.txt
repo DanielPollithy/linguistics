@@ -1,0 +1,43 @@
+6 - 6 Interview with Prof. Adele Goldberg
+=========================================
+
+Professor of Psychology and Linguist at Princeton
+
+Known for the "constructionist aproach"
+	- two meanings
+		- construction: learned pairing of form and function
+			- the more the merrier
+			- relative class construction
+		- people construct language (controversial)
+			- is there something innate: are we born to except nouns and words?
+			- lots of people thought that, because one couldn't believe that 
+				- children can do it without effort
+				- although adults struggle so hard
+			-> domain general pattern
+				- we known that children always here the same focused on grammar
+				- children and adults always keep track of the probability of word sequences
+				- syllables and pictures:
+					- we always try to anticipate what the next image or syllable will be
+				- the child tries to learn to pack und unpack messages
+				- link form and functions of a language
+					-> so they have to learn the methods of the language
+				- want and need to communicate is the big drive
+				- vast memory for language and other things is there
+				- "orange is the new black" -> "grey is the new black" -> "50 is the new 40"
+					- the second word "black" was a standard
+						40 as age with specialthe capabilities of women and so on
+					- the substitution as the first word
+					-> nobody tells us how this works
+				- we know 1000 of semi-idiomatic half-open phrases
+			- weird exceptions:
+				"the afraid boy" sounds weird to native speakers -> "the scared boy"
+					- there is nothing wrong with the semantics or the sound pattern
+						- why do children easily avoid this?
+						- why have second language learners problems with that?
+					-> hypothesis: 
+						- children anticipate sentences and expect "the afraid boy"
+						- but in fact they hear "the boy that was afraid"
+						-> they learn that
+						same idea with learning "went" instead of "goed" for "going"
+						
+

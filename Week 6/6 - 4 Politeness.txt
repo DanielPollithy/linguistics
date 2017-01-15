@@ -1,0 +1,39 @@
+6 - 4 Politeness
+================
+
+There is a structure in language variation that corresponds to social structure.
+
+A structure which exists in every language is politeness.
+
+What is politness: You are aware of the social situation you are in and the person you are talking with.
+
+Face: Technical notion
+	- public self-image
+	- quality everybody has and we try to protect
+	- something like dignity/honor
+	- famous theory by Penelope Brown and Stephen Levinson: 
+		- distinction between two types of face:
+			- negative face
+				- want of every person that your actions are unimpeded by other people
+				- this is how we usually understand politeness (categorial imperative)
+			- positive face
+				- to be appreciated by others
+		- Example for this:
+			- Mrs. Brown is a gardner and very proud of her roses
+			- if a visitor gratifies that her roses are beatiful
+			- Mrs. B feels that we have saved her positive face
+	- Face-threatening act: 
+		- speech acts that "change the world"
+		- negative face: you don't want others to hinder your actions
+		- positive face: you want to be appreciated by others
+		-> Mitigation: ways of avoiding face-threatening acts by others
+			Example: Instead of: "Turn on the heating!" -> "It's cold in here, isn't it?"
+
+Politeness & Interculturality:
+	- different cultures may have very different politeness strategies
+	- 
+
+
+
+
+

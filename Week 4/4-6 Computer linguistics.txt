@@ -1,0 +1,8 @@
+4-6 Computer linguistics
+========================
+
+Barend Beekhuizen is specialized in First Language Acquisition
+
+Child acquisition of language and how to analyze this with computer models
+
+

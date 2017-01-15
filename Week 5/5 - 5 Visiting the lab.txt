@@ -1,0 +1,7 @@
+5 - 5 Visiting the lab
+======================
+
+Cochlear implant -> different perception of audio
+Simulation of the sounds received from a cochlear implant
+
+Experiments can take place at a laptop with only a mouse.

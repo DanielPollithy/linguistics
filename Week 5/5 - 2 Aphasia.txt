@@ -1,0 +1,44 @@
+5 - 2 Aphasia
+============
+
+Parts of the brain involved in language
+- left hemisphere of the brain
+- Wernicke's area
+- Broca's area
+- Arcuate fasciculus (connection between Wernicke's and Broca's area)
+- also all over the brain
+- no "designated" area
+
+19th century doctors Wernicke and Broca found that the patients with certain speech problems where in these brain areas
+
+Many language related problems are called Aphasia
+
+Wernicke's aphasia:
+- fluent aphasia
+	patients sound very fluent
+	good gramatical sentences
+	if you listen closely -> doesn't make any sense what they say
+	problem 1: connecting sound/form to the meaning
+	The patients know meanings (for example "chair")
+		-> but can't articulate the right word
+	Problem 2: in understanding
+	The patients recognize the word "chair" but cannot connect it to the meaning
+
+Broca's aphasia:
+	Non-fluent speech
+	Ungrammatical sentences, lots of mistakes
+	what they say does make sense
+	No problems understanding, but articulating
+	Problem: There is something broken in their syntax
+		- in their inflectional morphology
+
+Arcuate fasciculus: Conduction aphasia
+	- nothing seems to be wrong
+	- makes sense and is fluent
+	- if you ask them to repeat something
+		count from 0 to 10
+	- they seem to have a memory problem
+
+
+
+

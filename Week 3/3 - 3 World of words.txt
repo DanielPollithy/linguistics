@@ -1,0 +1,10 @@
+3 - 3 World of words
+====================
+
+All languages seem to have words.
+
+The words in an isolated languages could be countable. 
+Generally: Total number of words is infinite.
+
+When you learn a new language you cannot determine the beggining and end of a word.
+That is because in spoken languages there are no boundaries.

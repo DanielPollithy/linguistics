@@ -1,0 +1,52 @@
+3 - 2 Morphology
+================
+
+Study of words
+
+What does human language consist of?
+	-> "words"
+
+But what defines a word?
+Three criterias:
+	- spaces -> only written language
+		- passion fruit, ice cream
+			- one word?
+		- bad criteria
+	- meaning
+		- one word = one concept/meaning
+		- what is a concept?
+	- pronunciation:
+		- the word is one form that cannot be interrupted
+		- Prosody: the way in which we pronounce words and sentences together
+
+None of them works good. But we are going to use them.
+
+Example: uncovering
+un - cover - ing
+cover := called the base
+un, ing := affix (prefix, suffix) 
+	they don't work without the base
+
+These bits are all called morphemes:
+	- happiness has two morphemes
+
+Languages differ:
+	- isolating languages: 
+		- few or no combination of morphemes
+		- ej. chinese: one-to-one-relationship:
+			-> Morpheme:Meaning
+	- agglutinative languages:
+		- combination of morphemes in a transparent way
+		- turkish: plural
+	- fusional:
+		- example: arabic
+			book -> books -> to write -> writer
+			change the vowels 
+	- polysynthetic:
+		- combine bases and affixes endlessly
+		- example: Mohawk (native american New York)
+			wahonwatia'tawitsherahetkenhten
+			She made the thing, that one puts on one's body, ugly for him
+		=> a speaker of Mohawk might have a total different concept of a word
+
+English is between fusional, isolating and agglutinative. Difficult to classify generally.

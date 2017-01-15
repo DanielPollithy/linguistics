@@ -22,7 +22,7 @@ Ethnologue is free
 	- english: differentiation between gender (he is nice - she is nice)
 		-> chinese speakers do not have to do that
 
-French and Italian (Romance) are called sister languages because they have the smae parent language: latin
+French and Italian (Romance) are called sister languages because they have the same parent language: latin
 	- un - uno
 	- main - mano
 	- homme -uomo
@@ -34,7 +34,7 @@ German and english (Germanic):
 Romance and Germanic are in Indo-European
 
 other families: Dravidian (south asia) and Niger-Congo (souther sahara)
-Confusion relationships between languages
+Confusing relationships between languages
 
 Isolated languages do not seem to be related: Basque
 

@@ -1,0 +1,18 @@
+3 - Language informatants
+=========================
+
+Basque: 
+	S-O-V, N-A, postpositions, questions: S-V-O
+Tarifit Berber: 
+	S-V-O, N-A, prepositions, q: S-V-O, question particle goes to the beginning
+Gungbe:
+	S-V-O, N-A, prepositions, q: S-V-O
+Turkish:
+	S-O-V, A-N, prepositions,  q: S-O-V
+Abruzzese:
+	S-V-O, N-A, prepositions, q: S-V-O, question with auxilary: O-V-S > question words come at the beginning of the sentence
+Mandarin-Chinese:
+	S-V-O, A-N, prepositions, q: S-V-O
+
+
+

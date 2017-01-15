@@ -1,0 +1,43 @@
+5 - 4 Reading in the brain
+==========================
+
+Where is reading located?
+What kind of writing systems do we have?
+
+Reading is strange for linguists:
+	less "natural"
+		- Most languages don't have a writing system
+		- In the languages with writing system there are always analphabetics but never vice versa
+		- you learn writing specifically (not picked it up)
+
+Writing systems:
+	- Latin script
+		- phoneme-based
+	- Kana script (Japanese)
+		- Syllable-based
+	- Han script (Mandarin Chinese)
+		- Morpheme-based
+	- Hangul script (korean)
+		- Phoneme-based (phonological features)
+
+Write in all different direction (top-down, right-left...)
+
+In all writing systems: the letters/symbols for reading are in the same part of the brain
+Why?
+	- innate? -> no. writing and reading is not "natual"
+		only 5000 years -> no enough time to be biologically
+
+Diversity and similarity in writing:
+	Reading Recoginition area is also used for 3d-vision
+	- the capital T-shape -> innate pattern recoginition
+
+Why 3d-recognition for letters/visions?
+Why this? There is also human face recognition areas... why not them?
+	-> best possible solution between form and sound
+	-> paradox: chinese connects forms to morphemes
+		- sounds are important though
+
+
+
+
+

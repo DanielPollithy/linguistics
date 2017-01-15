@@ -1,0 +1,50 @@
+3 - 4 Syntax and word order
+===========================
+
+How are words ordered?
+
+John eats rice.
+Subject, verb and object.
+
+Subject:
+	"The subject changes the verb."
+	John eats rice -> I eat rice.
+Object:
+	"opposite"
+	Does not change the verb.
+Verb:
+	"changes when the subject changes"
+	describes action
+
+Subject Object Verb (SVO): 3! = 6 possible orders
+-> all of them can be found in the world's languages
+	SVO English
+	SOV Turkish, Korean
+	VSO Tagalog (Philipens)
+	VOS Malagasy (Madagaskar)
+	OSV Xavante (Native american language)
+	OVS Hixkaryana (Native american language)
+
+Longer sentences
+----------------
+
+Parts can be longer for example "*A nice man* enters a bar."
+	man is a noun
+		- Nouns describe entities in the real world
+	nice is an adjective
+		- Adjectives describe qualities of entities in the real world
+
+Two possible orders of noun and adjective:
+	AN English, Mising (Tibet)
+	NA Apatani (Tibet), Spanish
+
+Another example of combination of words:
+Prepositions
+	describes relation
+	Polish has prepositions
+	Finnish has postpositions
+	
+
+
+
+

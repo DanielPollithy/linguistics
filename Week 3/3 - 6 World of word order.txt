@@ -1,0 +1,32 @@
+3 - 6 World of word order
+===========================
+(Discussion)
+
+How are the word orders spread over the world?
+	-> No. S-V-O and S-O-V and V-S-O we have already covered 99% of known languages.
+
+Why are some word orders more frequent than others?
+	- the three of them have the subject before the object
+		-> seems to be a logical order
+		experiment: Different language speaker should use gestures to show the sentence:
+		"A girl catches a fish". What all of them did was
+			1) A girl
+			2) a fish
+			3) catch
+		S - O - V
+		Although their spoken language has a different order -> S-O-V seems to be natural for the participants
+		Why is that?
+			Linguists are divided in two ideas:
+				1. Some parts of grammar is innate (children are born with it) like the subject coming before the object
+				2. It is just the logical order of any action (who does what)
+			There are exceptions! So why are there any languages which put an object before a subject?
+				-> there might be other factor involving the orders
+
+Endless exceptions to the rules...
+Is linguistics a science? (like physics)
+	- The isolation process which is needed for experiments in physics is not really possible in linguistics
+		-> there are always some factors (we cannot put language in a experiment situation)
+
+
+
+
